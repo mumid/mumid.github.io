@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/image/datascience2.jpeg"
+  image: "/images/about.jpg"
 ---
 
 Data Science is my passion. Each set of data contains a story behind it. 
