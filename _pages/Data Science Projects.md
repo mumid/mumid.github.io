@@ -1,15 +1,12 @@
 ---
 layout: archive
-permalink: /Data SCience Projects/
+permalink: /Data-Science-Projects/
 title: "Data Science Project Portfolio"
 author_profile: true
 header:
   image: "/image/spec.jpg"
 ---
 
-Data Science is my passion. Each set of data contains a story behind it. 
-My skill in Python, Machine Learning, Tableau, SQL enriched me with successfull project completions.
-  
 
 {% include base_path %}
 {% include group-by-array collection=site.posts field="tags" %}
