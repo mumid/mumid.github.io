@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Mumid Sharif Rony"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/profile.jpg"  # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio"
   location         : "Brisbane, QLD, Australia"
   email            : "mumid_sharif@yahoo.com"
