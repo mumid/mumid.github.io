@@ -3,7 +3,7 @@ title: "Analysis of Profitable App profile: App Store and Google Play Market"
 Date: 2019-05-07
 tags: [Data Science, Data Analysis, Python]
 header:
-  image: "/images/2019-05-07/apps.jpg"
+  image: "/images/2019-05-07/mobileapps.png"
 excerpt: "Data Science, Data Analysis, Python"
 mathjax: "true"
 ---
