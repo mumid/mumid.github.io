@@ -181,7 +181,7 @@ recent_grads.plot(x='Sample_size', y='Median', kind='scatter')
 
 
 
-![png](output_5_1.png)
+<img src='{{ site.url }}{{ site.baseurl }}/images/2019-01-15/output_5_1.png' alt="">
 
 
 
