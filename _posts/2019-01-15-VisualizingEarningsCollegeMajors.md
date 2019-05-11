@@ -181,7 +181,7 @@ recent_grads.plot(x='Sample_size', y='Median', kind='scatter')
 
 
 
-<img src='{{ site.url }}{{ site.baseurl }}/images/2019-01-15/output_5_1.png' alt="">
+<img src="{{ site.url }}{{ site.baseurl }}/images/2019-01-15/output_5_1.png" alt="">
 
 
 
@@ -197,7 +197,7 @@ recent_grads.plot(x='Sample_size', y='Unemployment_rate', kind='scatter')
 
 
 
-![png](output_6_1.png)
+<img src="{{ site.url }}{{ site.baseurl }}/images/2019-01-15/output_6_1.png" alt="">
 
 
 
@@ -213,7 +213,7 @@ recent_grads.plot(x='Full_time', y='Median', kind='scatter')
 
 
 
-![png](output_7_1.png)
+<img src="{{ site.url }}{{ site.baseurl }}/images/2019-01-15/output_7_1.png" alt="">
 
 
 
@@ -229,7 +229,7 @@ recent_grads.plot(x='ShareWomen', y='Unemployment_rate', kind='scatter')
 
 
 
-![png](output_8_1.png)
+<img src="{{ site.url }}{{ site.baseurl }}/images/2019-01-15/output_8_1.png" alt="">
 
 
 
@@ -245,7 +245,7 @@ recent_grads.plot(x='Men', y='Median', kind='scatter')
 
 
 
-![png](output_9_1.png)
+<img src="{{ site.url }}{{ site.baseurl }}/images/2019-01-15/output_9_1.png" alt="">
 
 
 
@@ -261,7 +261,7 @@ recent_grads.plot(x='Women', y='Median', kind='scatter')
 
 
 
-![png](output_10_1.png)
+<img src="{{ site.url }}{{ site.baseurl }}/images/2019-01-15/output_10_1.png" alt="">
 
 
 From the scattered plot above, it can be observed that students in more popular majors earn wages between 30k to 40k. Again, subjects with female majority make less money than others. With the increase of number of full time employees, median salary averaged between 30k to 40k. But it can be predicted that companies with small number of full time emplyees tend to pay higher median salary. 
@@ -287,7 +287,7 @@ for r in range(4):
 ```
 
 
-![png](output_13_0.png)
+<img src="{{ site.url }}{{ site.baseurl }}/images/2019-01-15/output_13_0.png" alt="">
 
 
 
@@ -301,7 +301,7 @@ for r in range(4,8):
 ```
 
 
-![png](output_14_0.png)
+<img src="{{ site.url }}{{ site.baseurl }}/images/2019-01-15/output_14_0.png" alt="">
 
 
 The most common median salary range is between 22000 to 45000.  Almost 40% of majors are predminant by Wome(60% share women rate). Again, around 30% of majors are male predominant (with share women rate of 40%). 
@@ -328,7 +328,7 @@ scatter_matrix(recent_grads[['Sample_size', 'Median']], figsize=(6,6))
 
 
 
-![png](output_18_1.png)
+<img src="{{ site.url }}{{ site.baseurl }}/images/2019-01-15/output_18_1.png" alt="">
 
 
 
@@ -353,7 +353,7 @@ scatter_matrix(recent_grads[['Sample_size', 'Median', 'Unemployment_rate']], fig
 
 
 
-![png](output_19_1.png)
+<img src="{{ site.url }}{{ site.baseurl }}/images/2019-01-15/output_19_1.png" alt="">
 
 
 ## Visualisation with Pandas and Bar Plots
@@ -374,11 +374,11 @@ recent_grads[163:].plot.bar(x='Major', y='ShareWomen', legend=False)
 
 
 
-![png](output_22_1.png)
+<img src="{{ site.url }}{{ site.baseurl }}/images/2019-01-15/output_22_1.png" alt="">
 
 
 
-![png](output_22_2.png)
+<img src="{{ site.url }}{{ site.baseurl }}/images/2019-01-15/output_22_2.png" alt="">
 
 
 ## Conclusion
