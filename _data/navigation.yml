@@ -2,7 +2,7 @@
 main:
   - title: "About Me"
     url: /about-me/
-   - title: "AWS & Data Science Projects by Tags"
+  - title: "AWS & Data Science Projects by Tags"
     url: /AWS-&-Data-Science-Projects/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
