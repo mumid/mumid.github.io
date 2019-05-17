@@ -1,12 +1,10 @@
 ---
 title: "AWS SAMPLE"
 Date: 2019-02-10
-layout: collection
-permalink: /AWS-Cloud-Projects/
-collection: AWS
+label: [AWS, Cloud]
 header:
   image: "/images/2019-02-10/office-4.jpg"
-excerpt: "AWS, Cloud"
+excerpt: "Data Science, Data Analysis, Python"
 mathjax: "true"
 ---
 
