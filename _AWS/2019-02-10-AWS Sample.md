@@ -1,7 +1,7 @@
 ---
 title: "AWS SAMPLE"
 Date: 2019-02-10
-tag: [AWS, Cloud]
+
 header:
   image: "/images/2019-02-10/office-4.jpg"
 excerpt: "AWS, Cloud"
