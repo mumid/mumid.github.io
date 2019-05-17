@@ -2,7 +2,7 @@
 layout: collection
 title: "AWS Cloud Projects"
 permalink: /AWS-Cloud-Projects/
-collection: AWS
+collection: _AWS
 author_profile: true
 header:
   image: "/images/AWS-Logo.png"
