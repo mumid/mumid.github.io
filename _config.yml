@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Mumid Sharif Rony"
 title_separator          : "-"
 name                     : "Mumid Sharif Rony"
-description              : "Data Science Portfolio"
+description              : "AWS Cloud & Data Science Portfolio"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "Mumid Sharif Rony"
   avatar           : "/images/profile.jpg"  # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Science Portfolio"
+  bio              : "AWS Cloud & Data Science Portfolio"
   location         : "Brisbane, QLD, Australia"
   email            : "mumid_sharif@yahoo.com"
   contact          : "+61423735785"
@@ -117,7 +117,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      # url: mailto:mumid_sharif@yahoo.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -132,7 +132,7 @@ author:
       # url: "https://github.com/"
     - label: "mumid-sharif-05070a33"
       icon: "fab fa-fw fa-linkedin"
-      # url: "https://linkedin.com/"
+      # url: "https://linkedin.com/in"
 
 # Site Footer
 footer:

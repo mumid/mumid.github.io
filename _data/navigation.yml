@@ -2,6 +2,8 @@
 main:
   - title: "About"
     url: /about/
+  - title: "AWS Cloud Projects"
+    url: /AWS-Cloud-Projects/
   - title: "Data Science Projects"
     url: /Data-Science-Projects/
   # - title: "About"
