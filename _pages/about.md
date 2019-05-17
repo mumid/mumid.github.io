@@ -5,7 +5,7 @@ header:
   image: "/images/about.jpg"
 ---
 
-*** 2 years of experience in AWS Solution architecture, providing solution to technical difficulties, infrastructural developments; using AWS tools i.e. Cloud Formation, EC2, IAM, S3, RDS. Developing Data Science skill as a part of continuous professional development spree. Each set of data contains a story behind it. I am enriching my  skill in Python, Machine Learning, Tableau, SQL with successfull project completions for Data Science.
+ 2 years of experience in AWS Solution architecture, providing solution to technical difficulties, infrastructural developments; using AWS tools i.e. Cloud Formation, EC2, IAM, S3, RDS. Developing Data Science skill as a part of continuous professional development spree. Each set of data contains a story behind it. I am enriching my skill in Python, Machine Learning, Tableau, SQL with successfull project completions for Data Science.
 
 ## Certifications
 
