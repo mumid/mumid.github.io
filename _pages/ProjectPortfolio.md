@@ -1,10 +1,10 @@
 ---
 layout: archive
-permalink: /Data-Science-Projects/
-title: "Data Science Projects by Tags"
+permalink: /AWS-&-Data-Science-Projects/
+title: "AWS & Data Science Projects by Tags"
 author_profile: true
 header:
-  image: "/images/Projectpage.jpg"
+  image: "/images/Cloud.jpg"
 ---
 
 {% include base_path %}

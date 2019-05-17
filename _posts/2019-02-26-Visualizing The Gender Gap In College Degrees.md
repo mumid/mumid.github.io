@@ -1,7 +1,7 @@
 ---
 title: "Data Science Project: Visualizing The Gender Gap In College Degrees"
 Date: 2019-01-15
-tags: [Data Science, Data Analysis, Python]
+tags: [Data Science Projects with Python]
 header:
   image: "/images/2019-02-26/After-Graduation.jpg"
 excerpt: "Data Science, Data Analysis, Python"

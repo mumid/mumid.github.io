@@ -1,7 +1,7 @@
 ---
 title: "Data Science Project: Visualizing Earnings Based On College Majors"
 Date: 2019-01-15
-tags: [Data Science, Data Analysis, Python]
+tags: [Data Science Projects with Python]
 header:
   image: "/images/2019-01-15/Speakers_2.png"
 excerpt: "Data Science, Data Analysis, Python"
