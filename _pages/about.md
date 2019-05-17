@@ -5,7 +5,7 @@ header:
   image: "/images/about.jpg"
 ---
 
-2 years of experience in AWS Solution architecture, providing solution to technical difficulties, infrastructural developments; using AWS tools i.e. Cloud Formation, EC2, IAM, S3, RDS. Developing Data Science skill as a part of continuous professional development spree. Each set of data contains a story behind it. I am enriching my skill in Python, Machine Learning, Tableau, SQL with successfull project completions for Data Science.
+*** 2 years of experience in AWS Solution architecture, providing solution to technical difficulties, infrastructural developments; using AWS tools i.e. Cloud Formation, EC2, IAM, S3, RDS. Developing Data Science skill as a part of continuous professional development spree. Each set of data contains a story behind it. I am enriching my  skill in Python, Machine Learning, Tableau, SQL with successfull project completions for Data Science.
 
 ## Certifications
 
@@ -14,12 +14,12 @@ Issued Feb 2019
 Credential ID GR659002651MR
 
 ### AWS Certified Solutions Architect-Associate
-Issued Oct 2018 - Expires Oct 202
-Credential ID 389165
+* Issued Oct 2018 - Expires Oct 202
+* Credential ID 389165 
+* [AWS Certification Badge](https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2018-10-31&ci=AWS00357345)
 
 ## Skills
-* 2 years of experience in design, configuring and launching Amazon Web Services applications.
-* Certified in AWS Solution Architect & Prince2-Agile.
+
 * Understanding of application migration strategies – ie. Rehost vs Replatform vs Refactor, AWS Architecture Framework.
 * Experienced in implementing Server Migration Service, Database Migration Service.
 * Hands on experience in creating IAM accounts, S3 Buckets , EC2 instance, Virtual Private Cloud (VPC), Route 53, status checks and monitor.
