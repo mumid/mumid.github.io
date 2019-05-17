@@ -2,6 +2,7 @@
 title: "AWS SAMPLE"
 Date: 2019-02-10
 label: [AWS, Cloud]
+layout: collection
 header:
   image: "/images/2019-02-10/office-4.jpg"
 excerpt: "Data Science, Data Analysis, Python"
