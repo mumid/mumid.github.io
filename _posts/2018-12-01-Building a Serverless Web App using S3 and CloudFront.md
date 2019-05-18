@@ -3,7 +3,7 @@ title: "AWS Serverless Project: Building A Serverless Web App Using S3 and Cloud
 Date: 2018-12-01
 tags: [Cloud Projects with AWS]
 header:
-  image: "/images/2019-02-10/office-4.jpg"
+  image: "/images/2018-12-01/SD.png"
 excerpt: "AWS, Serverless"
 mathjax: "true"
 ---
