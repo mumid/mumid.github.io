@@ -3,7 +3,7 @@ title: "AWS Serverless Project: Setup Authentication and Authorization to the Ap
 Date: 2018-12-21
 tags: [Cloud Projects with AWS]
 header:
-  image: "/images/2019-02-10/office-4.jpg"
+  image: "/images/2018-12-21/API2.png"
 excerpt: "AWS, Serverless"
 mathjax: "true"
 ---
