@@ -3,7 +3,7 @@ title: "Microservices With Docker: Continuous Integration And Deployment With AW
 Date: 2019-04-17
 tags: [Microservices Projects with Docker]
 header:
-  image: "/images/2019-02-10/office-4.jpg"
+  image: "/images/2019-04-17/dckrl.png"
 excerpt: "Microservices, Docker"
 mathjax: "true"
 ---
