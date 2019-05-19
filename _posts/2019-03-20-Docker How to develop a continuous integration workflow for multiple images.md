@@ -3,7 +3,7 @@ title: "Microservices with Docker: Develop A Continuous Integration Workflow For
 Date: 2019-03-20
 tags: [Microservices Projects with Docker]
 header:
-  image: "/images/2019-02-10/office-4.jpg"
+  image: "/images/2019-03-20/dck1.jpg"
 excerpt: "Microservices, Docker"
 mathjax: "true"
 ---
