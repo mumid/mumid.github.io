@@ -3,7 +3,7 @@ title: "AWS Cloud Project: Migrating A Client to Cloud"
 Date: 2019-02-18
 tags: [Cloud Projects with AWS]
 header:
-  image: "/images/2019-02-10/office-4.jpg"
+  image: "/images/2019-02-18/CM.png"
 excerpt: "AWS, Cloud, Migration"
 mathjax: "true"
 ---

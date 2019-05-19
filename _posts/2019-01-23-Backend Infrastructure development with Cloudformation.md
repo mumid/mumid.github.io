@@ -3,7 +3,7 @@ title: "AWS Cloud Project: Backend Infrastructure development with Cloudformatio
 Date: 2019-01-23
 tags: [Cloud Projects with AWS]
 header:
-  image: "/images/2019-02-10/office-4.jpg"
+  image: "/images/2019-01-23/CF.jpg"
 excerpt: "AWS, Cloudformation"
 mathjax: "true"
 ---
