@@ -21,38 +21,43 @@ Credential ID GR659002651MR
 ## My Awesome Skills
 
 
-| AWS           | Level          | Years Of Expertise  |
-| ------------- |:--------------:| -------------------:|
-| col 3 is      | right-aligned  | $1600               |
-| col 2 is      | centered       |   $12               |
-| zebra stripes | are neat       |    $1               |
+| AWS                                             |Level                   | Years Of Expertise     |
+| ----------------------------------------------- |:----------------------:| ----------------------:|
+| Server & Database Migration Service             | Intermediate           | $1600                  |
+| IAM, S3, ELB, ASG, EC2, VPC, RDS                | Intermediate           |   $12                  |
+| CloudWatch, CloudTrail | are neat               | Intermediate           |                        |
+|Lambda, DynamoDB, API Gateway                    | Intermediate           |                        |
+|Policy, Roles, Encryption, KMS, Cognito          | Intermediate           |                        |      
+|Node.js, Postman                                 | Intermediate           |                        |
+|Infrastructure As Code - CloudFormation , YAML   | Intermediate           |                        |
 
 
-| Data Science  | Level           | Years Of Expertise  |
-| ------------- |:---------------:| -------------------:|
-| col 3 is      | right-aligned   | $1600               |
-| col 2 is      | centered        |   $12               |
-| zebra stripes | are neat        |    $1               | 
+
+
+| Data Science                                    | Level                  | Years Of Expertise     |
+| ----------------------------------------------- |:----------------------:| ----------------------:|
+| col 3 is                                        | right-aligned          | $1600                  |
+| col 2 is                                        | centered               |   $12                  |
+| zebra stripes                                   | are neat               |    $1                  | 
+
+
+
+
  
-
-| Personal           | Level           | Years Of Expertise  |
-| ------------------ |:---------------:| -------------------:|
-| Communication      | right-aligned   | $1600               |
-| Organization       | centered        |    $12              |
-| Team Player s      | are neat        |     $1              |
-|Creativity          |                 |                     |
-|Social              |                 |                     |
-| Project management |                 |                     |
+| Personal                                        | Level                  | Years Of Expertise     |
+| ----------------------------------------------- |:----------------------:| ----------------------:|
+| Communication                                   | right-aligned          | $1600                  |
+| Organization                                    | centered               |    $12                 |
+| Team Player s                                   | are neat               |     $1                 |
+| Creativity                                      |                        |                        |
+| Social                                          |                        |                        |
+| Project management                              |                        |                        |
+| Assessment                                      |                        |                        |
+| Eye To Details                                  |                        |                        |
 
 
 * Understanding of application migration strategies – ie. Rehost vs Replatform vs Refactor, AWS Architecture Framework.
-* Experienced in implementing Server Migration Service, Database Migration Service.
-* Hands on experience in creating IAM accounts, S3 Buckets , EC2 instance, Virtual Private Cloud (VPC), Route 53, status checks and monitor.
 * Skilled in configuring RDS, Load Balancer, Auto Scaling and perform health checks.
-* Knowledge of restful services, designing a serverless web app using API Gateway, AWS Lambda, DynamoDB, authenticating users with Cognito.
-* Basic knowledge of node.js, Postman for Serverless API testing, continuous Integration technology Docker.
-* Experience in ‘infrastructure as code’ - AWS CloudFormation, configuring stacks with resources, parameters, mappings, conditions with the scripting language YAML.
-* Excellent communication and interpersonal skills, both oral and written.
 * Ability to assess and implement new technologies and processes, to innovate and influence.
 * Expert in Excel, Words, Power point, Office 365 applications.
 * Experience in Agile framework and Agile-o-meter, Scrum, Lean Start Up.
