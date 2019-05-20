@@ -18,7 +18,32 @@ Credential ID GR659002651MR
 * Credential ID 389165 
 * [AWS Certification Badge](https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2018-10-31&ci=AWS00357345)
 
-## Skills
+## My Awesome Skills
+
+
+| AWS           | Level          | Years Of Expertise  |
+| ------------- |:--------------:| -------------------:|
+| col 3 is      | right-aligned  | $1600               |
+| col 2 is      | centered       |   $12               |
+| zebra stripes | are neat       |    $1               |
+
+
+| Data Science  | Level           | Years Of Expertise  |
+| ------------- |:---------------:| -------------------:|
+| col 3 is      | right-aligned   | $1600               |
+| col 2 is      | centered        |   $12               |
+| zebra stripes | are neat        |    $1               | 
+ 
+
+| Personal           | Level           | Years Of Expertise  |
+| ------------------ |:---------------:| -------------------:|
+| Communication      | right-aligned   | $1600               |
+| Organization       | centered        |    $12              |
+| Team Player s      | are neat        |     $1              |
+|Creativity          |                 |                     |
+|Social              |                 |                     |
+| Project management |                 |                     |
+
 
 * Understanding of application migration strategies – ie. Rehost vs Replatform vs Refactor, AWS Architecture Framework.
 * Experienced in implementing Server Migration Service, Database Migration Service.
