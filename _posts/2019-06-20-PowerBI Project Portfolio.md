@@ -41,14 +41,21 @@ The first and second page displayed the sales, gross profit amounts by country (
 <iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiYzE4Mzc2ZDYtZTc0Yi00OGNjLTlkOTEtNWRmZWNjYjg5ZWY2IiwidCI6IjJiYWMzNWU3LThlNWMtNDUyNi04OTgxLTg5MjA2YmM0ZDg5MSIsImMiOjN9" frameborder="0" allowFullScreen="true"></iframe>
 
 ## Procurement / Spend Data Analysis
+The report is created with date slicers, multi row card to display total amounts and quantities. The Total Purchases and Total PO's are measured against buying package, supplier, stock item, months through donut, bar chart and matrix tables.
 
 <iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiMzg5NTA0MzUtNWVkNS00ZGY2LTg3MDYtMmNjZWYyN2ZmZjBjIiwidCI6IjJiYWMzNWU3LThlNWMtNDUyNi04OTgxLTg5MjA2YmM0ZDg5MSIsImMiOjN9" frameborder="0" allowFullScreen="true"></iframe>
 
 ## Bank Data Analysis
+The first two pages of report contains customer data (ID, job classification, gender, education, marital status, loan default, age group, balance group) represented in slicers, map, bar, column, pie charts.
+
+The third page measure the customer data against the total balance. A few extra cards are used to show variable amounts and quantities. Visual images are used to clearly differentiate between the cards.
+
+The fourth page is designed with advanced DAX measures such as Dynamic Measures, Dynamic Dimensions. The similar visualization templates are used as previous pages.
 
 <iframe width="680" height="510" src="https://app.powerbi.com/view?r=eyJrIjoiOTdjMjE0YWItMTliYS00NmVmLWFhOWMtYzFiYTg4MTU5ZWEwIiwidCI6IjJiYWMzNWU3LThlNWMtNDUyNi04OTgxLTg5MjA2YmM0ZDg5MSIsImMiOjN9" frameborder="0" allowFullScreen="true"></iframe>
 
 ## IT Ticket Analysis
+Since the IT tickets need to be measured against multiple variables, I have created slicers for severity, priority, ticket type, satisfaction, departments, requestor seniority and field against cloumns from the dataset. The total amount, quantity and avg values are created at the top as cards. The donut and bar charts are created with DAX Dynamic measure which can be selected against User, Res. Days and Res. Avg Days (visualized as slicer at the top section of the report page).
 
 <iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiYjFjNmI0YjQtMmY3Mi00NDMxLWI2OWUtYWNkNjg2YzY0YTM0IiwidCI6IjJiYWMzNWU3LThlNWMtNDUyNi04OTgxLTg5MjA2YmM0ZDg5MSIsImMiOjN9" frameborder="0" allowFullScreen="true"></iframe>
 
@@ -57,17 +64,24 @@ The first and second page displayed the sales, gross profit amounts by country (
 
 
 ## Product Data Analysis
+The report starts with the date and flag slicers at the top. Then the total sales are measured against different variables related to products. Visualization templates such as area, donut, pie charts, tables are used in this report.
 
 <iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiMTgyMzVlNTctNGMxNS00YzRkLTg1ZmEtYzk1MDdkYWI5ODIxIiwidCI6IjJiYWMzNWU3LThlNWMtNDUyNi04OTgxLTg5MjA2YmM0ZDg5MSIsImMiOjN9" frameborder="0" allowFullScreen="true"></iframe>
 
 ## Manufacturer Market and KPI Analysis
+The first reporting page is designed to display market share of leading company,% of growth by manufacturer along with a slicer to select date.
+Revenue is measured against country using map, year-manufacturer using line chart and against category-segment-year using play axis (imported from marketplace).
+
+The second page has the measures displayed with bar chart, matrix table, KPI gauge. It also has a bookmark created at top right hand corner. By clicking the down arrow next to "manufacturers" will open the slicer bar to select company logo's.
 
 <iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiOTllMmEwNjctYWFkMi00NGQyLTgwMTItM2YxYjNhM2IzZTkwIiwidCI6IjJiYWMzNWU3LThlNWMtNDUyNi04OTgxLTg5MjA2YmM0ZDg5MSIsImMiOjN9" frameborder="0" allowFullScreen="true"></iframe>
 
 ## Domino's Pizza Sales Report
+The sales amount is displayed against states, salse manager, pizza types and days using shape map, bar, donut charts. Total sale and states are also presented at the top section as card and slicers respectively.
 
 <iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiYjUyZjE4YmYtOWI1MC00NTVjLWFkNmYtNjdjMDFlZWM0MGYxIiwidCI6IjJiYWMzNWU3LThlNWMtNDUyNi04OTgxLTg5MjA2YmM0ZDg5MSIsImMiOjN9" frameborder="0" allowFullScreen="true"></iframe>
 
 ## US 2017 Disaster Analysis Report
+The second page contains the summary, losses and deaths report against the states. The total and avg amounts, quantities are displayed as card on left hand side for both the report page. The disaster types (images) are displayed at the top using chiclet slicer importing from marketplace. The first page of report shows the disasters against the states using shape map.
 
 <iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiMDNhYTkyODMtN2VmMy00YTA0LWIwM2QtODZjZWEwMjMzNDU2IiwidCI6IjJiYWMzNWU3LThlNWMtNDUyNi04OTgxLTg5MjA2YmM0ZDg5MSIsImMiOjN9" frameborder="0" allowFullScreen="true"></iframe>
