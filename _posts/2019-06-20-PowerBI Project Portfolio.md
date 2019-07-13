@@ -28,4 +28,7 @@ Publishing Report
 - share and collaborate dashboard, workspace, apps.
 
 
+<iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiOTdjMjE0YWItMTliYS00NmVmLWFhOWMtYzFiYTg4MTU5ZWEwIiwidCI6IjJiYWMzNWU3LThlNWMtNDUyNi04OTgxLTg5MjA2YmM0ZDg5MSIsImMiOjN9" frameborder="0" allowFullScreen="true"></iframe>
+
+
 ## Details will be UPLOADED SOON
