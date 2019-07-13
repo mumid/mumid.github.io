@@ -3,7 +3,7 @@ title: "Power BI Portfolio: Dashboard reporting of Finance, Sales, Procurement, 
 Date: 2019-01-23
 tags: [ETL and Dashboard Reorting with Power BI]
 header:
-  image: "/images/2019-06-20/PBI.jpg"
+  image: "/images/2019-06-20/PBI.png"
 excerpt: "Power BI, Data Visualization, ETL, Dashboard Reporting"
 mathjax: "true"
 ---
