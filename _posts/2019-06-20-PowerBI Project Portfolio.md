@@ -8,7 +8,7 @@ excerpt: "Power BI, Data Visualization, ETL, Dashboard Reporting"
 mathjax: "true"
 ---
 
-#Introduction
+# Introduction
 As a part of my Power BI porfolio, I will implement power BI in different sample data sets relevant to Australian industries. 
 All the data, company names used in this portfolio are altered for security and compliance purpose. 
 The sole purpose of this portfolio is to demonstrate competency, expertise in power BI reports, dashboards. 
@@ -27,8 +27,6 @@ Publishing Report
 - set up enterprise gateway
 - share and collaborate dashboard, workspace, apps.
 
-
-<iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiOTdjMjE0YWItMTliYS00NmVmLWFhOWMtYzFiYTg4MTU5ZWEwIiwidCI6IjJiYWMzNWU3LThlNWMtNDUyNi04OTgxLTg5MjA2YmM0ZDg5MSIsImMiOjN9" frameborder="0" allowFullScreen="true"></iframe>
-
+<iframe width="933" height="700" src="https://app.powerbi.com/view?r=eyJrIjoiOTdjMjE0YWItMTliYS00NmVmLWFhOWMtYzFiYTg4MTU5ZWEwIiwidCI6IjJiYWMzNWU3LThlNWMtNDUyNi04OTgxLTg5MjA2YmM0ZDg5MSIsImMiOjN9" frameborder="0" allowFullScreen="true"></iframe>
 
 ## Details will be UPLOADED SOON
