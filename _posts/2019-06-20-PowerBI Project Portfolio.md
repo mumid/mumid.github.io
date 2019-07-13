@@ -9,10 +9,8 @@ mathjax: "true"
 ---
 
 # Introduction
-As a part of my Power BI porfolio, I will implement power BI in different sample data sets relevant to Australian industries. 
-All the data, company names used in this portfolio are altered for security and compliance purpose. 
-The sole purpose of this portfolio is to demonstrate competency, expertise in power BI reports, dashboards. 
-The skills and technical knowledge implemented are as below :  
+As a part of my Power BI porfolio, I will implement Power BI in different sample data sets in relevant Australian industries to demonstrate competency, expertise in power BI reports, dashboards. All the data, company names used in this portfolio are altered for security and compliance purpose. 
+The skills and technical knowledge applied are as below :  
 
 - performing ETL using power query
 - Different ways to access Data
@@ -27,6 +25,6 @@ Publishing Report
 - set up enterprise gateway
 - share and collaborate dashboard, workspace, apps.
 
-<iframe width="933" height="700" src="https://app.powerbi.com/view?r=eyJrIjoiOTdjMjE0YWItMTliYS00NmVmLWFhOWMtYzFiYTg4MTU5ZWEwIiwidCI6IjJiYWMzNWU3LThlNWMtNDUyNi04OTgxLTg5MjA2YmM0ZDg5MSIsImMiOjN9" frameborder="0" allowFullScreen="true"></iframe>
+<iframe width="680" height="510" src="https://app.powerbi.com/view?r=eyJrIjoiOTdjMjE0YWItMTliYS00NmVmLWFhOWMtYzFiYTg4MTU5ZWEwIiwidCI6IjJiYWMzNWU3LThlNWMtNDUyNi04OTgxLTg5MjA2YmM0ZDg5MSIsImMiOjN9" frameborder="0" allowFullScreen="true"></iframe>
 
 ## Details will be UPLOADED SOON
