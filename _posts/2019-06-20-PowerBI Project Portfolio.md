@@ -34,14 +34,17 @@ The second page of report contains Tooltip reporting which is linked with the th
 
 
 ## Regional Sales Data Analysis
-The top section of all the report page contains flag (Country), date, category and sub category slicers along with total and gross amounts. The internet and reseller sales total and margin details are also calculated through DAX measure. The third page of report has DAX Dynamic measure for both internet and reseller to select thedonut charts individually.
+The top section of all the report page contains flag (Country), date, category and sub category slicers along with total and gross amounts. The internet and reseller sales total and margin details are calculated through DAX measure. The third page of report has DAX Dynamic measure for both internet and reseller to select the donut charts individually.
 
 The first and second page displayed the sales, gross profit amounts by country (map) and year (bar charts). Again the matrix tables contain the detailed amounts by product category-sub category level, country-state province level.
 
 <iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiYzE4Mzc2ZDYtZTc0Yi00OGNjLTlkOTEtNWRmZWNjYjg5ZWY2IiwidCI6IjJiYWMzNWU3LThlNWMtNDUyNi04OTgxLTg5MjA2YmM0ZDg5MSIsImMiOjN9" frameborder="0" allowFullScreen="true"></iframe>
 
+## Procurement / Spend Data Analysis
+
+<iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiMzg5NTA0MzUtNWVkNS00ZGY2LTg3MDYtMmNjZWYyN2ZmZjBjIiwidCI6IjJiYWMzNWU3LThlNWMtNDUyNi04OTgxLTg5MjA2YmM0ZDg5MSIsImMiOjN9" frameborder="0" allowFullScreen="true"></iframe>
+
 ## Bank Data Analysis
 
 <iframe width="680" height="510" src="https://app.powerbi.com/view?r=eyJrIjoiOTdjMjE0YWItMTliYS00NmVmLWFhOWMtYzFiYTg4MTU5ZWEwIiwidCI6IjJiYWMzNWU3LThlNWMtNDUyNi04OTgxLTg5MjA2YmM0ZDg5MSIsImMiOjN9" frameborder="0" allowFullScreen="true"></iframe>
 
-## Details will be UPLOADED SOON
