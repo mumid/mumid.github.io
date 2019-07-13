@@ -1,5 +1,5 @@
 ---
-title: "Power BI Portfolio: Dashboard reporting of Finance, Sales, Procurement, Bank, IT, Manufacturer and HR department"
+title: "Power BI Portfolio: Dashboard reporting of Finance, Sales, Procurement, Bank, IT, HR, Production and Manufacture department"
 Date: 2019-01-23
 tags: [ETL and Dashboard Reorting with Power BI]
 header:
@@ -33,7 +33,14 @@ The second page of report contains Tooltip reporting which is linked with the th
 <iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiZjA3N2YwODUtMTFhNi00MjZlLTgzYjQtZmIyOGU4ZTk2ODBiIiwidCI6IjJiYWMzNWU3LThlNWMtNDUyNi04OTgxLTg5MjA2YmM0ZDg5MSIsImMiOjN9" frameborder="0" allowFullScreen="true"></iframe>
 
 
+## Regional Sales Data Analysis
+The top section of all the report page contains flag (Country), date, category and sub category slicers along with total and gross amounts. The internet and reseller sales total and margin details are also calculated through DAX measure. The third page of report has DAX Dynamic measure for both internet and reseller to select thedonut charts individually.
 
+The first and second page displayed the sales, gross profit amounts by country (map) and year (bar charts). Again the matrix tables contain the detailed amounts by product category-sub category level, country-state province level.
+
+<iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiYzE4Mzc2ZDYtZTc0Yi00OGNjLTlkOTEtNWRmZWNjYjg5ZWY2IiwidCI6IjJiYWMzNWU3LThlNWMtNDUyNi04OTgxLTg5MjA2YmM0ZDg5MSIsImMiOjN9" frameborder="0" allowFullScreen="true"></iframe>
+
+## Bank Data Analysis
 
 <iframe width="680" height="510" src="https://app.powerbi.com/view?r=eyJrIjoiOTdjMjE0YWItMTliYS00NmVmLWFhOWMtYzFiYTg4MTU5ZWEwIiwidCI6IjJiYWMzNWU3LThlNWMtNDUyNi04OTgxLTg5MjA2YmM0ZDg5MSIsImMiOjN9" frameborder="0" allowFullScreen="true"></iframe>
 
