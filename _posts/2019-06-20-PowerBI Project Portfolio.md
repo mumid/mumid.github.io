@@ -60,8 +60,9 @@ Since the IT tickets need to be measured against multiple variables, I have crea
 <iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiYjFjNmI0YjQtMmY3Mi00NDMxLWI2OWUtYWNkNjg2YzY0YTM0IiwidCI6IjJiYWMzNWU3LThlNWMtNDUyNi04OTgxLTg5MjA2YmM0ZDg5MSIsImMiOjN9" frameborder="0" allowFullScreen="true"></iframe>
 
 ## HR Emplyee Data Analysis
+The first report draws an visual analysis between salary and employees. The second report detailed the avarage values and amounts measured against different variables. The third one is business unit/region report. Apart from different charts, marix tables, slicers, DAX Calculations are used to generate Dynamic Measures and Dynamic Dimensions. 
 
-
+<iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiNmNhMzYzOTktMWNmMS00NWUyLTlmM2YtOTFmYTM2OGM0M2E1IiwidCI6IjJiYWMzNWU3LThlNWMtNDUyNi04OTgxLTg5MjA2YmM0ZDg5MSIsImMiOjN9" frameborder="0" allowFullScreen="true"></iframe>
 
 ## Product Data Analysis
 The report starts with the date and flag slicers at the top. Then the total sales are measured against different variables related to products. Visualization templates such as area, donut, pie charts, tables are used in this report.
