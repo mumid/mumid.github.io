@@ -16,8 +16,11 @@ Credential ID GR659002651MR
 ### Masters in Data Science
 * Completed in 2021
 
-## My Awesome Skills
+### Bachelors in Mechanical Engineering
+* Completed in 2005
 
+
+## My Awesome Skills
 
 ### Data Science, Python and SQL 
 
@@ -63,7 +66,7 @@ Credential ID GR659002651MR
 ## Experience
 
 |  Company                | Position                         | Duration                         |
-| ----------------------- |:--------------------------------:| :-------------------------------:|
+| ----------------------- |-------------------------------- | :-------------------------------:|
 | Bolton Clarke           | Senior BI Analyst                | Dec 2020 - Present               |
 | Brisbane City Council   | Senior Data Analyst              | Apr 2020 – Dec 2020              |
 | ASG Group               | Business Intelligence Consultant | Oct 2019 – Mar 2020              |
