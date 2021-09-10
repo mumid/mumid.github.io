@@ -1,5 +1,5 @@
 ---
-title: "Data Science Project Employee Exit Surveys"
+title: "Data Science Project: Employee Exit Surveys"
 Date: 2021-09-10
 tags: [Data Science Projects with Python]
 header:
@@ -35,6 +35,8 @@ Below is a preview of a couple columns we'll work with from the `tafe_survey.csv
 #Read in the data
 import pandas as pd
 import numpy as np
+import matplotlib.pyplot as plt
+%matplotlib inline
 dete_survey = pd.read_csv('dete_survey.csv')
 
 #Quick exploration of the data
@@ -2209,7 +2211,6 @@ combined_updated['dissatisfied'] = combined_updated['dissatisfied'].fillna(False
 dis_pct = combined_updated.pivot_table(index='service_cat', values = 'dissatisfied')
 
 # Plot the results
-%matplotlib inline
 dis_pct.plot(kind='bar', rot = 30)
 ```
 
@@ -2221,7 +2222,7 @@ dis_pct.plot(kind='bar', rot = 30)
 
 
 
-![png](output_43_1.png)
+<img src="{{ site.url }}{{ site.baseurl }}/images/output_43_1.png" alt="">
 
 
 
