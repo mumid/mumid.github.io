@@ -61,11 +61,14 @@ Credential ID GR659002651MR
 
 
 ## Experience
-Bolton Clarke | Senior BI Analyst | Dec 2020 - Present
-Brisbane City Council | Senior Data Analyst | Apr 2020 – Dec 2020
-ASG Group | Business Intelligence Consultant | Oct 2019 – Mar 2020
-Telstra | Design Specialist / Analyst | Jan 2017 – June 2019
-McConnell Dowell | Data Analyst - Test Engineer | Sep 2013 – Dec 2016
-Finisar | Business Data Analyst | Jan 2010 – Aug 2013
+
+|  Company                | Position                         | Duration                         |
+| ----------------------- |:--------------------------------:| :-------------------------------:|
+| Bolton Clarke           | Senior BI Analyst                | Dec 2020 - Present               |
+| Brisbane City Council   | Senior Data Analyst              | Apr 2020 – Dec 2020              |
+| ASG Group               | Business Intelligence Consultant | Oct 2019 – Mar 2020              |
+| Telstra                 | Design Specialist / Analyst      | Jan 2017 – June 2019             |
+| McConnell Dowell        | Data Analyst - Test Engineer     | Sep 2013 – Dec 2016              |
+| Finisar                 | Business Data Analyst            | Jan 2010 – Aug 2013              |
 
   
