@@ -5,7 +5,7 @@ header:
   image: "/images/about.jpg"
 ---
 
- 2 years of experience in AWS Solution architecture, providing solution to technical difficulties, infrastructural developments; using AWS tools i.e. Cloud Formation, EC2, IAM, S3, RDS. Developing Data Science skill as a part of continuous professional development spree. Each set of data contains a story behind it. I am enriching my skill in Python, Machine Learning, Tableau, SQL with successfull project completions for Data Science.
+A passionate Data Analyst experienced in analyzing technical, commercial data set and in visualizing through dashboard reporting to develop business strategy, forecasting decisions, using tools such as Python, SQL, Power BI, Excel, R, Confluence. Currently enhancing my statistical knowledge and career through “Master’s in data Science”.
 
 ## Certifications
 
@@ -13,47 +13,33 @@ header:
 Issued Feb 2019						      			
 Credential ID GR659002651MR
 
-### AWS Certified Solutions Architect-Associate
-* Issued Oct 2018 - Expires Oct 202
-* Credential ID 389165 
-* [AWS Certification Badge](https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2018-10-31&ci=AWS00357345)
+### Masters in Data Science
+* Completed in 2021
 
 ## My Awesome Skills
 
 
-### Amazon Web Services, Serverless & Microservices 
-
-| AWS                                                                                          |Level                   | Years Of Expertise               |
-| -------------------------------------------------------------------------------------------- |:----------------------:| :-------------------------------:|
-| Server & Database Migration Strategies,Service                                               | Intermediate           | 2                                |
-| IAM, S3, ELB, ASG, EC2, VPC, RDS                                                             | Intermediate           | 2                                |
-| CloudWatch, CloudTrail                                                                       | Intermediate           | 2                                |
-| Lambda, DynamoDB, API Gateway                                                                | Intermediate           | 2                                |
-| Policy, Roles, Encryption, KMS, Cognito                                                      | Intermediate           | 2                                |      
-| Node.js, Postman                                                                             | Intermediate           | 2                                |
-| Infrastructure As Code - CloudFormation , YAML                                               | Intermediate           | 2                                |
-
-
-
-
 ### Data Science, Python and SQL 
 
-| Data Science                                                                                  | Level                  | Years Of Expertise               |
-| --------------------------------------------------------------------------------------------- |:----------------------:| --------------------------------:|
-| Python Scripting with libraries i.e. numpy, matplotlib, panda, scikit                         | Beginner               | 1                                |
-| Tableau for data mining, data validation and identifying anomalies                            | Beginner               | 1                                |
-| simple and multiple linear regression, Ordinary Least Squares, R-Squared, Adjusted R-Squared  | Beginner               | 1                                |  
-| robust modeling, running descriptive statistics using SAS, GRETL                              | Beginner               | 1                                |
-| geo-demographic segmentation through backward elimination                                     | Beginner               | 1                                |
-| Co-efficient of logistic regression                                                           | Beginner               | 1                                |
-| Bulletproofing Blueprint for Data Wrangling                                                   | Beginner               | 1                                |
-| Data Warehouse, ETL, Microsoft BI Tools: SSDT-BI, SSIS                                        | Beginner               | 1                                | 
-| Data truncation, anomalies, Error troubleshooting in SSIS using Conditional Split             | Beginner               | 1                                |
-| Microsoft SQL Server 2014, MSVS Shell                                                         | Beginner               | 1                                |
-| Cumulative Accuracy Profile (CAP) curve                                                       | Beginner               | 1                                | 
-| Correlation Matrix and Multicollinearity Intuition                                            | Beginner               | 1                                |
-| model maintenance, model deterioration                                                        | Beginner               | 1                                |
-| SQL Tables (RAW, WRK, DRV), stored procedures, functions                                      | Beginner               | 1                                | 
+| Data Science                                                                                          | Level                  | Years Of Expertise               |
+| ----------------------------------------------------------------------------------------------------  |:----------------------:| --------------------------------:|
+| Python Scripting with libraries i.e. numpy, matplotlib, pandas, seaborne, pycaret                     | Intermediate           | 3                                |
+| PowerBI for data visualisation, data analysis, data modelling                                         | Intermediate           | 3                                |
+| Regression analysis (Linear, Multiple, Polynomial, Support Vector Regression)                         | Intermediate           | 3                                |  
+| Classification (Logistic, KNN, Support Vector Machine, Naive Bayes, Decision Tree, Random Forest)     | Intermediate           | 3                                |
+| Clustering (K-means, Heirarchical)                                                                    | Intermediate           | 3                                |
+| Dimensionality Reduction (Principal Component Analysis, Linear Discriminant Analysis)                 | Intermediate           | 3                                |
+| Robust modeling, model maintenance, model deterioration                                               | Intermediate           | 3                                |
+| DAX Measures, PBI Gateway troubleshoot, security level setup                                          | Intermediate           | 3                                |
+| Data Wrangling, Data Mining using R                                                                   | Intermediate           | 3                                |
+| Data Warehouse, ETL, Microsoft BI Tools: SSDT-BI, SSIS                                                | Intermediate           | 3                                | 
+| Data truncation, anomalies, Error troubleshooting in SSIS using Conditional Split                     | Intermediate           | 3                                |
+| Microsoft SQL Server 2017, MSVS Shell                                                                 | Intermediate           | 3                                |
+| Deep Learning (Artificial Neural Network, Convolutional Neural Network), Natural Language Processing  | Intermediate           | 3                                | 
+| Keras, Tensorflow, Scikit Learn                                                                       | Intermediate           | 3                                |
+| Model Evaluation, Selection and model boosting using XGboost, catboost                                | Intermediate           | 3                                |
+| SQL Database, views, stored procedures, functions                                                     | Intermediate           | 3                                | 
+| Data Scraping Using Selenium, Beautiful Soup, Scrapy                                                  | Intermediate           | 3                                | 
 
 
 
@@ -74,6 +60,12 @@ Credential ID GR659002651MR
 
 
 
-
+## Experience
+Bolton Clarke | Senior BI Analyst | Dec 2020 - Present
+Brisbane City Council | Senior Data Analyst | Apr 2020 – Dec 2020
+ASG Group | Business Intelligence Consultant | Oct 2019 – Mar 2020
+Telstra | Design Specialist / Analyst | Jan 2017 – June 2019
+McConnell Dowell | Data Analyst - Test Engineer | Sep 2013 – Dec 2016
+Finisar | Business Data Analyst | Jan 2010 – Aug 2013
 
   
